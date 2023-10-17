@@ -1,6 +1,6 @@
-namespace Pract_3
+namespace Pianinka
 {
-    internal class Program
+    internal class ProgPiano
     {
         static void Main(string[] args)
         {

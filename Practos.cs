@@ -34,7 +34,7 @@ namespace Pract_3
                 }
                 else
                 {
-                    Console.WriteLine(" - Такой октавы нету");
+                    Console.WriteLine(" - Такой октавы нет");
                     kl = Console.ReadKey();
                 }
             }

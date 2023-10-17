@@ -16,7 +16,7 @@ namespace Pract_3
                         nota = sound(nota, 1);
                     }
                 }
-                else if (nota.Key == ConsoleKey.F6)
+                else if (nota.Key == ConsoleKey.F3)
                 {
                     Console.WriteLine("F3");
                     while (nota.Key != ConsoleKey.F2 && nota.Key != ConsoleKey.F5 && nota.Key != ConsoleKey.Backspace)
@@ -24,7 +24,7 @@ namespace Pract_3
                         nota = sound(nota, 2);
                     }
                 }
-                else if (nota.Key == ConsoleKey.F7)
+                else if (nota.Key == ConsoleKey.F5)
                 {
                     Console.WriteLine("F5");
                     while (nota.Key != ConsoleKey.F2 && nota.Key != ConsoleKey.F3 && nota.Key != ConsoleKey.Backspace)
